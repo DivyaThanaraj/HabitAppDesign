@@ -1,4 +1,4 @@
-"# HabitDesign" 
+"# HabitAppDesign" 
 
 Hi, This is my habit tracking app
 
