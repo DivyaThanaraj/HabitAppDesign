@@ -12,8 +12,6 @@ Hi, This is my habit tracking app
 
 ![pic5](https://github.com/Divyat26/HabitDesign/assets/138781659/f261514e-cefa-4cac-827b-fe88fbdd2b91)
 
-![pic6](https://github.com/Divyat26/HabitDesign/assets/138781659/8215a17f-41c3-4eff-b574-23720acb93be)
-
 ![pic7](https://github.com/Divyat26/HabitDesign/assets/138781659/cbc7c3af-b151-4790-806d-0d58a0217ea4)
 
 ![pic8](https://github.com/Divyat26/HabitDesign/assets/138781659/12d27025-037b-4021-b304-1d1e6c5de2d7)
