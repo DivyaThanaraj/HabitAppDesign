@@ -2,5 +2,4 @@
 
 Hi, This is my habit tracking app
 
-![Uploading pic1.PNG…]()[README.md](https://github.com/Divyat26/HabitDesign/files/12001444/README.md)
-
+![pic1](https://github.com/Divyat26/HabitDesign/assets/138781659/20ed39e0-98c2-418c-9fb4-fba061465262)
