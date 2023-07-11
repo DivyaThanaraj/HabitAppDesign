@@ -6,6 +6,10 @@ In this app you can track your daily habits and can achieve your daily goals.
 
 You can also take notes, that are happened on that day and the important notes can be noted with a star.
 
+"# Components"
+
+[Components](https://www.figma.com/file/GGaYuAetCnOB7586ua2neP/Learning-Design?type=design&node-id=1024-4642&mode=design&t=jq6XH9F6WlJes4A9-0)
+
 ![pic1](https://github.com/Divyat26/HabitDesign/assets/138781659/49d13b86-c00d-47d3-b143-0fd84625514c)
 
 ![pic2](https://github.com/Divyat26/HabitDesign/assets/138781659/ec53e591-b5f3-423a-a728-5c40baf7dc54)
